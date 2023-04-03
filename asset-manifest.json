@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/convert-word-html-tag/static/css/main.1fae6b55.css",
+    "main.js": "/convert-word-html-tag/static/js/main.2d1c3380.js",
+    "index.html": "/convert-word-html-tag/index.html",
+    "main.1fae6b55.css.map": "/convert-word-html-tag/static/css/main.1fae6b55.css.map",
+    "main.2d1c3380.js.map": "/convert-word-html-tag/static/js/main.2d1c3380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fae6b55.css",
+    "static/js/main.2d1c3380.js"
+  ]
+}
